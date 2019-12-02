@@ -1,0 +1,26 @@
+- title: Safe Street
+  subtitle: Made with Javascript, React, React Map GL, Node/Express, JWT, Axios, NoSQL/MongoDB, OpenFEMA API, World Air Quality Index API and the City of Seattle Open Data Portal.
+  link: https://github.com/roydaly/safe-street
+  demo: https://safest-street.herokuapp.com/
+
+- title: Cocktail Time
+  subtitle: Made with Javascript, React, React Router, Node/Express, JWT, Axios, NoSQL/MongoDB and Kaggle.com for a custom API.
+  link: https://github.com/roydaly/cocktail-time
+  demo: https://cocktail-time.herokuapp.com/
+
+- title: Pinball Wars
+  subtitle: Made with Javascript, ejs, Node/Express, Passport, Axios, Postgres, Sequelize, Cloudinary.com API and opdb.com API.
+  link: https://github.com/roydaly/pinball-wars
+  demo: https://pinball-wars.herokuapp.com/
+
+- title: Trade Tracker
+  subtitle: Made with Javascript, React, React Router, React Hooks, Node/Express, JWT, Axios, NoSQL/MongoDB and alphavantage.co API.
+  link: https://github.com/roydaly/trade-tracker
+  demo: https://trades-tracker.herokuapp.com/
+
+- title: You Don't Know Jack
+  subtitle: Made with Javascript, CSS, HTML and opentdb.com API
+  link: https://github.com/roydaly/you-do-not-know-jack
+  demo: https://you-do-not-know-jack.herokuapp.com/
+
+
