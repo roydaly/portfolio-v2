@@ -39,6 +39,7 @@ body {
 .icon:hover {
   transform: scale(1.5);
   color: #ff8a00;
+  font-size: larger;
 }
 
 .card {
