@@ -50,8 +50,6 @@ export default function info() {
           <File />
         </a>
       </div>
-      <br></br>
-      <a className="mr-5 icon" href="https://www.upwork.com/fl/roydaly" target="_blank" rel="noopener noreferrer" style={{textDecoration: 'none'}}> Click Here To Hire Me On UpWork! </a>
     </div>
 
   )
